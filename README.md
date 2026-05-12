@@ -29,7 +29,7 @@ Product Development Trainee @ Comviva | AI & ML Engineer | Full Stack Developer 
 
 <p align="left">
 
-<a href="https://github.com/nirnayikrai11" target="blank">
+<a href="https://github.com/nirnayikarai11" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
@@ -109,7 +109,7 @@ Product Development Trainee @ Comviva | AI & ML Engineer | Full Stack Developer 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirnayikrai11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirnayikarai11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </p>
 
@@ -119,7 +119,7 @@ Product Development Trainee @ Comviva | AI & ML Engineer | Full Stack Developer 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nirnayikrai11&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nirnayikarai11&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -129,7 +129,7 @@ Product Development Trainee @ Comviva | AI & ML Engineer | Full Stack Developer 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nirnayikrai11&theme=tokyonight&row=1&column=1&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=nirnayikarai11&theme=tokyonight&row=1&column=1&margin-w=15" />
 
 </p>
 
