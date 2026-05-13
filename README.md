@@ -138,7 +138,7 @@ Product Development Trainee @ Comviva | AI & ML Engineer | Full Stack Developer 
 # 📌 Featured Projects
 
 ## 🎟️ Event Management System
-Flask/Django-based event management platform with scheduling, registration, analytics, and automated reporting functionalities.
+Django-based event management platform with scheduling, registration, analytics, and automated reporting functionalities.
 
 ---
 
@@ -154,11 +154,6 @@ Scalable recommendation platform using microservices architecture, caching strat
 
 ## 🧠 Algorithm Visualizer
 Interactive visualizer for pathfinding and sorting algorithms including Dijkstra, BFS, A*, Merge Sort, Quick Sort, and Bubble Sort.
-
----
-
-## 🗳️ Election Data Analysis Dashboard
-Comprehensive analytics dashboard analyzing Lok Sabha Election Results 2024 with visual insights and trend analysis.
 
 ---
 
