@@ -137,11 +137,6 @@ Product Development Trainee @ Comviva | AI & ML Engineer | Full Stack Developer 
 
 # 📌 Featured Projects
 
-## 🎟️ Event Management System
-Django-based event management platform with scheduling, registration, analytics, and automated reporting functionalities.
-
----
-
 ## 🤖 Pulsar Detection using CNN + ANN
 AI/ML project leveraging Convolutional Neural Networks and Artificial Neural Networks for accurate pulsar detection and classification.
 
@@ -149,16 +144,6 @@ AI/ML project leveraging Convolutional Neural Networks and Artificial Neural Net
 
 ## 🎬 Moocflix Recommendation System
 Scalable recommendation platform using microservices architecture, caching strategies, and personalized content recommendations.
-
----
-
-## 🧠 Algorithm Visualizer
-Interactive visualizer for pathfinding and sorting algorithms including Dijkstra, BFS, A*, Merge Sort, Quick Sort, and Bubble Sort.
-
----
-
-## 📱 Automation Testing Framework
-Automation framework using Selenium, Playwright, and Robot Framework integrated with structured test execution and reporting.
 
 ---
 
